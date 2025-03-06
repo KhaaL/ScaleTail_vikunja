@@ -1,4 +1,4 @@
-# Make sure you replace SERVICE.
+`# Make sure you replace SERVICE.`
 
 # Vikunja with Tailscale Sidecar Configuration
 
