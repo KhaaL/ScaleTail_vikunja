@@ -2,7 +2,7 @@
 
 # Vikunja with Tailscale Sidecar Configuration
 
-This Docker Compose configuration sets up [Vikunja](https://github.com/go-vikunja/vikunja) with Tailscale as a sidecar container. 
+This Docker Compose configuration sets up [Vikunja](https://github.com/go-vikunja/vikunja) with Tailscale as a sidecar container. This configuration is deployed on a sqlite database.
 
 
 ## Vikunja

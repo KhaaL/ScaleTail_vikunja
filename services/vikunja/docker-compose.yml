@@ -36,6 +36,7 @@ services:
     restart: always
 
   # ${SERVICE}
+  # Full docker-compose documentation: https://vikunja.io/docs/full-docker-example/
   application:
     image: ${IMAGE_URL} # Image to be used
     network_mode: service:tailscale # Sidecar configuration to route ${SERVICE} through Tailscale
